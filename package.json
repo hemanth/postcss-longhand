@@ -1,6 +1,6 @@
 {
   "name": "postcss-longhand",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "PostCSS plugin for longhand CSS notations.",
   "license": "MIT",
   "repository": "hemanth/postcss-longhand",
