@@ -28,7 +28,7 @@
   ],
   "dependencies": {
     "css-longhand": "^1.1.1",
-    "postcss": "^5.0.19"
+    "postcss": "^7.0.37"
   },
   "devDependencies": {
     "ava": "^0.12.0"
